@@ -146,6 +146,11 @@
           "text": "Notion",
           "level": 2
         },
+        {
+          "icon": "https://s3.amazonaws.com/media-p.slid.es/uploads/40730/images/2781438/react.png",
+          "text": "ReactJS",
+          "level": 2
+        },
         [
           {
             "_comment": "This section lists technologies with their icons and skill levels."
