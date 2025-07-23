@@ -1,0 +1,9 @@
+# directories
+node_modules/
+vscode/
+build/
+
+# Executables
+*.exe
+*.bat
+*.sh

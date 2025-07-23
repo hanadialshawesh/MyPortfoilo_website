@@ -1,0 +1,343 @@
+{
+  "profileHolder": "hanadialshawesh",
+  "profiles": {
+    "hanadialshawesh": {
+      "name": "Hanadi Alshawesh",
+      "fname": "Hanadi",
+      "lname": "Alshawesh",
+      "phoneNumber": "+966 563610281",
+      "jobRole": "Software Engineer Student",
+      "experience": "",
+      "company": "one level left to graduate",
+      "companyURL": "https://uqu.edu.sa/en",
+      "certificates": [
+        {
+          "title": "Sql",
+          "provider": "SoloLearn",
+          "url": "https://drive.google.com/file/d/10U9WQZyjow5mTcgGjJCfxBqnej8FZICg/preview"
+        },
+        {
+          "title": "HTML",
+          "provider": "SoloLearn",
+          "url": "https://drive.google.com/file/d/12FEFWkDbbUoS2bweZbhQe13DtUqehcqC/preview"
+        },
+        {
+          "title": "Dart",
+          "provider": "Satr Platform",
+          "url": "https://drive.google.com/file/d/1L1UOTLDqfJO8NIppyokXhSqXI5eMNYXb/preview"
+        },
+        {
+          "title": "Microsoft Azure AI Fundamentalst",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1RsXQs3UPbjZ-QEQuOg9GpuILqlfL_iI8/preview"
+        },
+        {
+          "title": "RAG with Azure OpenAI",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1jcth3qqk2RvJSbb29y50RFsvGvRCiocB/preview"
+        },
+        {
+          "title": "IEEEXtreme 18.0 Programming ",
+          "provider": "IEEE",
+          "url": "https://drive.google.com/file/d/1DyrhkbBXw-Natv_5sW453KsXY2wbJKof/preview"
+        },
+        {
+          "title": "JavaScript",
+          "provider": "SoloLearn",
+          "url": "https://drive.google.com/file/d/17eEYn5xEL2dr-TcceHhpwZ2W_cXOKiYf/preview"
+        },
+        {
+          "title": "Fundamentals of machine learning",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1R8TJg2SRrTh-tfjU6Yq4QyOZlKHMXdP3/preview"
+        },
+        {
+          "title": "Apply prompt engineering with Azure OpenAI Service",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1tS376_v5tTvrfQCMNicbSeKeNDCs6qMb/preview"
+        },
+        {
+          "title": "Build natural language solutions with Azure OpenAI Service",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1SLoQpXGEPizu8lHkZ987dePZndWykdm8/preview"
+        },
+        {
+          "title": "Fundamentals of generative AI",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1YnrvAU0fPqb5TdE7DaTE-gngcIzVaBKo/preview"
+        },
+        {
+          "title": "Create business value from AI",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1ld_qiXYfO5jZUtylDHCQml0Yr-bzpZpm/preview"
+        },
+        {
+          "title": "Define a Microsoft AI strategy to create business value in retail",
+          "provider": "Microsoft",
+          "url": "https://drive.google.com/file/d/1KSpOryc3TBkaEqfzhPT9_fb-fCQRScTn/preview"
+        }
+      ],
+      "resume": "https://drive.google.com/file/d/17GwC4xJJR0RY4BJVAoK_vUVcj7TmxinE/view?usp=sharing",
+      "githubProfile": "https://github.com/hanadialshawesh/",
+      "profilePhoto1": "https://bit.ly/kent-c-dodds",
+      "profilePhoto": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_0.jpg",
+      "profiles": {
+        "linkedin": {
+          "url": "https://www.linkedin.com/in/hanadi-alshawesh-1b4541273/",
+          "icon": ""
+        },
+        "github": {
+          "url": "https://github.com/hanadialshawesh/",
+          "icon": ""
+        },
+        "hackerrank": {
+          "url": "https://www.hackerrank.com/profile/hanadialshawesh",
+          "icon": ""
+        },
+        "bitbucket": {
+          "url": "https://bitbucket.org/hanadialshawesh",
+          "icon": ""
+        }
+      },
+      "achievements": [
+        
+        {
+          "title": "Microsoft Azure AI Fundamentalst",
+          "desc": "Microsoft Certified: Azure AI Fundamentals – solid understanding of core AI and Azure services.",
+          "icon": "https://avatars.githubusercontent.com/u/6154722?v=4",
+          "url": "https://drive.google.com/drive/folders/1ALXxGrx46KKWVhiljC4icJZPKW2IjP4s?usp=sharing"
+        },
+        {
+          "title": "Sololearn",
+          "desc": "Successfully completed the courses on top trending programming languages and built apps and web sites as projects",
+          "icon": "https://avatars0.githubusercontent.com/u/47358700?s=400&u=c5e03d643c68e09f24712810a58669cfb4ec6c7f&v=4",
+          "url": "https://drive.google.com/drive/folders/1MRQzPYvjEYSfYpmFwFXUNknEa6J-iztT?usp=sharing"
+        }
+      ],
+      "skills": [
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png",
+          "text": "Python3",
+          "level": 3
+        },
+        {
+          "icon": "https://i.pinimg.com/736x/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.jpg",
+          "text": "Java Core",
+          "level": 2
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+          "text": "JavaScript",
+          "level": 3
+        },
+
+        {
+          "icon": "https://img.icons8.com/color/512/html-5--v1.png",
+          "text": "HTML 5",
+          "level": 3
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968242.png",
+          "text": "CSS 3",
+          "level": 3
+        },
+        {
+          "icon": "https://media.licdn.com/dms/image/D560BAQFjFIUcTilH4w/company-logo_200_200/0/1708112694181/notionhq_logo?e=1718841600&v=beta&t=TXxBsUpF1Botor5LemaMw6Ts7iktK6wbU-CKWpuZwNA",
+          "text": "Notion",
+          "level": 2
+        },
+        [
+          {
+            "_comment": "This section lists technologies with their icons and skill levels."
+          },
+          {
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg",
+            "text": "NodeJS",
+            "level": 2
+          },
+          {
+            "icon": "https://s3.amazonaws.com/media-p.slid.es/uploads/40730/images/2781438/react.png",
+            "text": "ReactJS",
+            "level": 2
+          },
+          {
+            "icon": "https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png",
+            "text": "NextJS",
+            "level": 2
+          },
+          {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg",
+          "text": "Atlassian Jira",
+          "level": 2
+          },
+          {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png",
+          "text": "AWS",
+            "level": 0
+          },
+          {
+            "icon": "https://s3.amazonaws.com/media-p.slid.es/uploads/40730/images/2781438/react.png",
+            "text": "React Native",
+            "level": 0
+          }
+        ],
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg",
+          "text": "Git CLI",
+          "level": 2
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
+          "text": "GitHub",
+          "level": 2
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg",
+          "text": "BitBucket",
+          "level": 2
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg",
+          "text": "Google FireBase",
+          "level": 2
+        },
+        {
+          "icon": "https://cdn-icons-png.flaticon.com/512/10262/10262316.png",
+          "text": "Design Thinking",
+          "level": 3
+        },
+        {
+          "icon": "https://vectorlogoseek.com/wp-content/uploads/2020/06/figma-vector-logo.png",
+          "text": "UI/UX",
+          "level": 1
+        },
+        {
+          "icon": "https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png",
+          "text": "MySQL",
+          "level": 0
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png",
+          "text": "Microsoft Azure",
+          "level": 0
+        },
+        {
+          "icon": "https://cdn-media-1.freecodecamp.org/images/kE3b4TOXtlEYpwhRvtSMi87mkWPaTfzbWOC9",
+          "text": "Full Stack Web Development",
+          "level": 1
+        },
+        {
+          "icon": "https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1686047227/hevo-learn-1/datascience-1024x511-1.png?_i=AA",
+          "text": "Data Science",
+          "level": 1
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Front-end-logo-color%402x.png",
+          "text": "Front-End Web Development",
+          "level": 3
+        }
+      ],
+      "education": [
+        {
+          "title": "Umm Al-Qura University",
+          "year": "Present",
+          "isCompleted": false,
+          "progress": "Graduated",
+          "description": " Senior Software Engineer:",
+          "score": "7.8",
+          "symbol": "CGPA",
+          "docURL": "",
+          "location": "Makkah"
+        },
+        {
+          "title": "Govt. PU College – Jed, KSA",
+          "year": "Done",
+          "isCompleted": true,
+          "progress": "Completed",
+          "description": "Completed Pre-University Education in Science",
+          "score": "99.70",
+          "symbol": "%",
+          "docURL": "",
+          "location": "Jeddah"
+        },
+        {
+          "title": "Govt. PU College – Jed, KSA",
+          "year": "Done",
+          "isCompleted": true,
+          "progress": "Completed",
+          "description": "Completed Higher education",
+          "score": "96",
+          "symbol": "%",
+          "docURL": "",
+          "location": "Jeddah"
+        }
+      ],
+      "projects": [
+        {
+          "title": "Graduation Project",
+          "year": "2025",
+          "isCompleted": false,
+          "progress": "In Progress",
+          "desc": "Secure, seamless student permissions.",
+          "score": "1",
+          "symbol": "months",
+          "location": "Jeddah",
+          "docURL": ""
+        },
+        {
+          "title": "Maven pro Manager",
+          "year": " 2024",
+          "isCompleted": true,
+          "progress": "Completed",
+          "desc": "Java-based product management system built using Maven to manage inventory and logic.",
+          "score": "7",
+          "symbol": "months",
+          "location": "Jeddah",
+          "docURL": ""
+        },
+        {
+          "title": "Flutter Cafe App",
+          "year": "2024",
+          "isCompleted": true,
+          "progress": "Completed",
+          "desc": "Mobile cafe management app developed with Flutter and Dart to streamline student cafe orders.",
+          "score": "8",
+          "symbol": "months",
+          "location": "Jeddah",
+          "docURL": ""
+        },
+        {
+          "title": "Snake Game",
+          "year": "2024",
+          "isCompleted": true,
+          "progress": "Completed",
+          "desc": "Classic snake game created in Python with simple game mechanics in a terminal interface.",
+          "score": "10",
+          "symbol": "months",
+          "location": "Jeddah",
+          "docURL": ""
+        }
+      ],
+      "proexp": [
+        {
+          "title": "BSF training",
+          "year": "2024",
+          "isCompleted": false,
+          "progress": "Present",
+          "desc": "Saudi-France banking training with professional courses.",
+          "score": "10",
+          "symbol": "months",
+          "location": "KSA"
+        }
+      ],
+      "contacts": {
+        "mail": "hanadialshawesh@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/hanadi-alshawesh-1b4541273/",
+        "twitter": "https://twitter.com/hanadialshawesh",
+        "instagram": "https://instagram.com/hanadialshawesh",
+        "mobile": "tel:+966563610281",
+        "whatsapp": "https://wa.me/+966563610281"
+      }
+    }
+  }
+}

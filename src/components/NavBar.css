@@ -1,0 +1,25 @@
+.navbar {
+	font-family: interRegular;
+	position: fixed;
+}
+
+.brand {
+	color: #0050ff;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+#navLink {
+	color: black;
+	padding: 0 7px;
+	transition: 0.2s;
+	font-family: interRegular;
+}
+
+#navLink:hover {
+	color: #0050ff;
+}
+
+.menu-item {
+	border-radius: 7px;
+}

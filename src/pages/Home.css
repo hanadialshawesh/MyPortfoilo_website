@@ -1,0 +1,10 @@
+.resumeBtn, .seeMoreBtn {
+	font-family: interSemiBold;
+	font-weight: normal;
+	width: "fit-content";
+	padding: 2px;
+}
+
+.profile-container {
+	margin: 80px 5px;
+}

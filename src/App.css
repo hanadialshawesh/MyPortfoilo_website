@@ -1,0 +1,62 @@
+@font-face {
+	font-family: googleSans;
+	src: url("./resources/fonts/GoogleSans/GoogleSans-Regular.ttf");
+}
+
+@font-face {
+	font-family: googleSansSemiBold;
+	src: url("./resources/fonts/GoogleSans/Rubik-Medium.ttf");
+}
+
+@font-face {
+	font-family: googleSansBold;
+	src: url("./resources/fonts/GoogleSans/Rubik-Bold.ttf");
+}
+
+@font-face {
+	font-family: interRegular;
+	src: url("./resources/fonts/Inter/static/Inter-Regular.ttf");
+}
+
+@font-face {
+	font-family: interMedium;
+	src: url("./resources/fonts/Inter/static/Inter-Medium.ttf");
+}
+
+@font-face {
+	font-family: interSemiBold;
+	src: url("./resources/fonts/Inter/static/Inter-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: interBold;
+	src: url("./resources/fonts/Inter/static/Inter-Bold.ttf");
+}
+
+:root {
+	font-family: interRegular;
+	font-size: 16px;
+}
+
+@media screen and (min-width: 1024px) {
+	:root {
+		font-size: 13.5px;
+	}
+}
+
+.hyper-link {
+	text-decoration: none;
+	padding: 2px 5px;
+	border-radius: 7px;
+	background-color: transparent;
+	color: #0080ff;
+	transition: 0.2s;
+}
+
+.hyper-link:hover {
+	background-color: #0080ff22;
+}
+
+.cover-navbar {
+	height: 80px;
+}

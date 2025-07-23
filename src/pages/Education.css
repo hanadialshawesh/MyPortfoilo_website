@@ -1,0 +1,25 @@
+.eduCard {
+    width: 400px;
+    min-height: 480px;
+    max-height: 550px;
+    padding: 20px;
+    transition: .2s ease-in-out;
+}
+
+.title {
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: left;
+}
+
+.score {
+    font-family: inter, interSemiBold;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.symbol {
+    color: #6d6d6d;
+    font-family: inter, interSemiBold;
+    font-weight: bold;
+}

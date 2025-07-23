@@ -1,0 +1,28 @@
+.title_text {
+    font-family: interSemiBold;
+    text-transform: uppercase;
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+.home_link {
+    color: #0080ff;
+    background-color: transparent;
+    padding: 2px 5px;
+    border-radius: 7px;
+    transition: 0.2s;
+}
+
+.home_link:hover {
+    background-color: #0080ff22;
+}
+
+.helper {
+    font-family: inter, arial, monospace;
+    margin-bottom: 5px;
+}
+
+.home_button {
+    margin: 20px;
+    font-family: intersemibold, arial, monospace;
+}

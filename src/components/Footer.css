@@ -1,0 +1,25 @@
+.footer {
+    font-family: interRegular;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    padding: 50px 0;
+    color: white;
+}
+
+#footerLinks {
+    font-family: interRegular;
+    border-radius: 5px;
+    transition: 0.2s;
+    padding: 0 5px;
+}
+
+#footerLinks:hover {
+    background-color: #2B6CB0;
+}
+
+.head {
+    font-family: interSemiBold;
+    font-size: 20px;
+    color: lightblue;
+}
